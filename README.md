@@ -7,7 +7,7 @@ A single-page site (Home, About, Programs, Gallery, Our Impact, Donate, Voluntee
 - `styles.css` — design system (colors, type, layout)
 - `script.js` — mobile nav, scroll reveal, animated impact counters
 
-## Deploy to Netlify (free plan)
+<!-- ## Deploy to Netlify (free plan)
 **Fastest way — drag and drop:**
 1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
 2. Drag the folder containing these three files onto the page
@@ -37,4 +37,4 @@ The form in `index.html` has `data-netlify="true"` and a honeypot field for spam
 
 ## Later additions
 - **Card/international payments**: once the Centre is verified with a provider (Pesapal, Flutterwave, or Stripe are common for Kenyan NGOs), add a "Donate with card" button linking to their hosted checkout page — no site rebuild needed.
-- **Real photos**: keep them optimized (under ~300KB each) so the site stays fast on mobile data.
+- **Real photos**: keep them optimized (under ~300KB each) so the site stays fast on mobile data. -->
